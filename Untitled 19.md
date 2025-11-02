@@ -139,6 +139,8 @@ Added optical character recognition to extract and validate text from PAN cards:
 
 Notebook Link - https://www.kaggle.com/code/aditisalvi04/pan-card-tampering
 
+Notebook Output Link - https://www.kaggle.com/code/aditisalvi04/pan-card-tampering?scriptVersionId=272716121
+
 ---
 
 ## Output 
