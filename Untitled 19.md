@@ -144,10 +144,11 @@ Notebook Link - https://www.kaggle.com/code/aditisalvi04/pan-card-tampering
 ## Output 
 
 Fake PAN card image output
-![[analysis_Tampered_141.jpg.png]]
+<img width="5107" height="4476" alt="analysis_Tampered_141 jpg" src="https://github.com/user-attachments/assets/83f09785-a1a9-47fe-8bda-10b19eed3546" />
+
 
 Real PAN card image output
-![[analysis_01271234470012_jpg.rf.b91eb1b2191522fe9242eccf0be9bca5.jpg.png]]
+
 
 ---
 							Built with💜 by Aditi Salvi
