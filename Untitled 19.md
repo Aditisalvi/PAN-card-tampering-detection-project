@@ -148,7 +148,10 @@ Fake PAN card image output
 
 
 Real PAN card image output
+<img width="4219" height="4476" alt="analysis_01271234470012_jpg rf b91eb1b2191522fe9242eccf0be9bca5 jpg" src="https://github.com/user-attachments/assets/a4a4179f-bdad-4ec6-87ff-e3512704df2f" />
+
 
 
 ---
-							Built with💜 by Aditi Salvi
+
+							                           Built with💜 by Aditi Salvi
