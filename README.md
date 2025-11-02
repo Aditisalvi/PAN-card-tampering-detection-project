@@ -156,4 +156,4 @@ Real PAN card image output
 
 ---
 
-							                           Built with💜 by Aditi Salvi
+							                     Built with 💜 by Aditi Salvi
